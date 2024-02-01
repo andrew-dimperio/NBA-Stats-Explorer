@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "cool-nba-logo-1024x1024-wallpaper-10745.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
