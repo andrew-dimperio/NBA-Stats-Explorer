@@ -9,7 +9,7 @@ NBA Player Search App is an iOS application that allows users to search for NBA 
 - Responsive design for various iOS devices
 
 ## Screenshots
-
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-02 at 16 54 07](https://github.com/andrew-dimperio/NBA-Stats-Explorer/assets/149008611/e94b4cfd-acd0-4022-bb01-ee25eb100ef0)
 
 
 ## Getting Started
